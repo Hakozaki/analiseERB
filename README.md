@@ -1,2 +1,2 @@
-pip intall pandas
-pip install openpyxl
+# pip intall pandas
+# pip install openpyxl
