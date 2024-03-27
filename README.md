@@ -1,2 +1,4 @@
-# pip intall pandas
-# pip install openpyxl
+### Dependencias python
+
+* pip intall pandas
+* pip install openpyxl
